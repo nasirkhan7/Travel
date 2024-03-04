@@ -112,7 +112,7 @@ mysqli_close($cn);
 													Name" /></td>
 										</tr><br />
 										<tr>
-											<td class="lefttxt">Gender:</td>
+											<td class="leftetxt">Gender:</td>
 											<td><input type="radio" name="r1" value="Male"
 													checked="checked" />Male<input type="radio" name="r1"
 													value="Female" />Female</td>
